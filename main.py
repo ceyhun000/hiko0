@@ -17,7 +17,6 @@ from telethon.tl.functions.photos import UploadProfilePhotoRequest, DeletePhotos
 from telethon.tl.functions.account import UpdateProfileRequest
 from telethon.tl.functions.users import GetFullUserRequest
 from art import text2art
-import matplotlib.pyplot as plt
 from io import BytesIO
 from PIL import Image
 from gtts import gTTS
